@@ -1,7 +1,3 @@
-.review .box .stars i {
-  color: var(--orange);
-}
-
 .contact .row {
   display: flex;
   flex-wrap: wrap;
