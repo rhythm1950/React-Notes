@@ -1,5 +1,4 @@
 header .search-bar-container {
-  top: 100%;
   border-top: .1rem solid rgba(255, 255, 255, .2);
   align-items: center;
   z-index: 1001;
