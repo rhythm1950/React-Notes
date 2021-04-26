@@ -1,5 +1,4 @@
 header .search-bar-container {
-  align-items: center;
   clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
 }
 
