@@ -1,7 +1,3 @@
-header .search-bar-container label {
-  font-size: 3rem;
-}
-
 header .search-bar-container label:hover {
   color: var(--orange);
 }
