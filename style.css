@@ -1,7 +1,3 @@
-header .search-bar-container label:hover {
-  color: var(--orange);
-}
-
 .login-form-container {
   position: fixed;
   top: -120%;
