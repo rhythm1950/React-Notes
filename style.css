@@ -1,7 +1,6 @@
 .login-form-container {
   top: -120%;
   align-items: center;
-  justify-content: center;
 }
 
 .login-form-container.active {
