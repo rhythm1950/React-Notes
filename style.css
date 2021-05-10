@@ -1,7 +1,6 @@
 header .navbar a {
   padding: 1.5rem;
   margin: 1.5rem 0;
-  background: #222;
 }
 
 @media (max-width:450px) {
