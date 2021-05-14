@@ -1,12 +1,6 @@
-.contact .row form .inputBox input,
-.contact .row form textarea {
-  background: #f7f7f7;
-}
-
 .contact .row form textarea {
   height: 15rem;
   resize: none;
-  width: 100%;
 }
 
 .brand-container {
