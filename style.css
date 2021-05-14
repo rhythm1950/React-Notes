@@ -1,7 +1,3 @@
-.contact .row form .inputBox {
-  display: flex;
-}
-
 .contact .row form .inputBox input,
 .contact .row form textarea {
   width: 49%;
