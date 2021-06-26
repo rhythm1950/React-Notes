@@ -1,7 +1,5 @@
 .contact .row form .inputBox {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
 }
 
 .contact .row form .inputBox input,
