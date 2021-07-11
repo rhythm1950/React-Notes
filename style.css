@@ -1,7 +1,6 @@
 .packages .box-container .box .content .price span {
   color: #666;
   font-size: 1.5rem;
-  text-decoration: line-through;
 }
 
 .services .box-container {
