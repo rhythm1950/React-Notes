@@ -1,13 +1,3 @@
-@media (max-width:450px) {
-
-  .contact .row form .inputBox input {
-    width: 100%;
-  }
-
-}
-
-/* media queries  */
-
 @media (max-width:1200px) {
 
   html {
