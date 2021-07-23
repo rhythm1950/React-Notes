@@ -1,12 +1,6 @@
 @media (max-width:768px) {
 
-  header .navbar.active {
-    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-  }
-
   header .navbar a {
-    display: block;
-    border-radius: .5rem;
     padding: 1.5rem;
     margin: 1.5rem 0;
     background: #222;
