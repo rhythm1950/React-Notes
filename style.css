@@ -2,7 +2,6 @@
 
   header .navbar {
     padding: 1rem 2rem;
-    clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
   }
 
   header .navbar.active {
