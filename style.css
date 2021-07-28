@@ -2,7 +2,6 @@
   border-radius: .5rem;
   flex: 1 1 30rem;
   height: 25rem;
-  position: relative;
 }
 
 .gallery .box-container .box img {
