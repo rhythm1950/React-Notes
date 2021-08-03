@@ -1,7 +1,3 @@
-.packages .box-container {
-  display: flex;
-}
-
 .packages .box-container .box {
   flex: 1 1 30rem;
   border-radius: .5rem;
