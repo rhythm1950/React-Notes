@@ -1,7 +1,3 @@
-.book .row .image img {
-  width: 100%;
-}
-
 .book .row form {
   flex: 1 1 40rem;
   padding: 2rem;
