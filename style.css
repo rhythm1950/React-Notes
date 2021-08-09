@@ -1,6 +1,5 @@
 .book .row form .inputBox input {
   border: .1rem solid rgba(0, 0, 0, .1);
-  text-transform: none;
 }
 
 .book .row form .inputBox h3 {
