@@ -1,7 +1,5 @@
 .book .row {
   display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
 }
 
 .book .row .image {
