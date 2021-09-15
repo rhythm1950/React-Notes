@@ -1,7 +1,3 @@
-.home .controls .vid-btn {
-  width: 2rem;
-}
-
 .home .controls .vid-btn.active {
   background: var(--orange);
 }
