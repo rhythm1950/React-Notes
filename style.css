@@ -1,7 +1,6 @@
 .book .row form {
   flex: 1 1 40rem;
   padding: 2rem;
-  box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
 }
 
 .book .row form .inputBox {
