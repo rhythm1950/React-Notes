@@ -1,7 +1,3 @@
-header .navbar a {
-  font-size: 2rem;
-}
-
 header .navbar a:hover {
   color: var(--orange);
 }
