@@ -1,6 +1,5 @@
 .gallery .box-container .box .content {
   background: rgba(0, 0, 0, .7);
-  padding: 2rem;
 }
 
 .gallery .box-container .box:hover .content {
