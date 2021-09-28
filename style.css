@@ -1,7 +1,3 @@
-.packages .box-container .box .content p {
-  padding: 1rem 0;
-}
-
 .packages .box-container .box .content .stars i {
   font-size: 1.7rem;
   color: var(--orange);
