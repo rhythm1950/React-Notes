@@ -1,6 +1,5 @@
 .packages .box-container .box img {
   height: 25rem;
-  object-fit: cover;
 }
 
 .packages .box-container .box .content {
