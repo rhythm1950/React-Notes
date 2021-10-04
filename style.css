@@ -1,7 +1,6 @@
 .gallery .box-container .box {
   overflow: hidden;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
-  border: 1rem solid #fff;
   flex: 1 1 30rem;
   height: 25rem;
   position: relative;
