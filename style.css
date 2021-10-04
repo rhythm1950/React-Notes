@@ -1,7 +1,6 @@
 .gallery .box-container .box {
   overflow: hidden;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
-  flex: 1 1 30rem;
 }
 
 .gallery .box-container .box img {
