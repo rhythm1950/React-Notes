@@ -1,6 +1,5 @@
 .packages .box-container .box {
   flex: 1 1 30rem;
-  border-radius: .5rem;
   overflow: hidden;
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
 }
