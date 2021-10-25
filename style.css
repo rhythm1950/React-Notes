@@ -1,6 +1,5 @@
 .packages .box-container .box {
   border-radius: .5rem;
-  overflow: hidden;
 }
 
 .packages .box-container .box img {
