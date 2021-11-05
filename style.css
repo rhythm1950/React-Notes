@@ -1,7 +1,3 @@
-* {
-  transition: all .2s linear;
-}
-
 *::selection {
   background: var(--orange);
   color: #fff;
