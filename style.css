@@ -1,7 +1,3 @@
-.review .box p {
-  color: #666;
-}
-
 .review .box .stars i {
   color: var(--orange);
   font-size: 1.7rem;
