@@ -1,7 +1,3 @@
-.login-form-container {
-  position: fixed;
-}
-
 .login-form-container.active {
   top: 0;
 }
