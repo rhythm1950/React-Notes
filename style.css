@@ -1,6 +1,5 @@
 .login-form-container {
   position: fixed;
-  display: flex;
 }
 
 .login-form-container.active {
