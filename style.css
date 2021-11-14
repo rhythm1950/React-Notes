@@ -1,7 +1,3 @@
-.contact .row form {
-  flex: 1 1 50rem;
-}
-
 .contact .row form .inputBox {
   display: flex;
   flex-wrap: wrap;
