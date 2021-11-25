@@ -1,9 +1,5 @@
 @media (max-width:768px) {
 
-  #menu-bar {
-    display: initial;
-  }
-
   header .navbar {
     position: absolute;
     top: 100%;
