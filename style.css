@@ -1,7 +1,3 @@
-.btn:hover {
-  color: var(--orange);
-}
-
 header {
   position: fixed;
   top: 0;
