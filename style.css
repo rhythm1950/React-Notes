@@ -1,7 +1,3 @@
-.login-form-container form p {
-  color: #666;
-}
-
 .login-form-container form p a {
   color: var(--orange);
 }
