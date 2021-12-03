@@ -1,7 +1,3 @@
-.footer .box-container .box a {
-  font-size: 1.5rem;
-}
-
 .footer .box-container .box a:hover {
   color: var(--orange);
   text-decoration: underline;
