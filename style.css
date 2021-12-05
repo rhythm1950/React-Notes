@@ -1,6 +1,5 @@
 .gallery .box-container .box img {
   height: 100%;
-  object-fit: cover;
 }
 
 .gallery .box-container .box .content {
