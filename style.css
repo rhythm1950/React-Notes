@@ -1,7 +1,3 @@
-.gallery .box-container .box img {
-  height: 100%;
-}
-
 .gallery .box-container .box .content {
   position: absolute;
   top: -100%;
