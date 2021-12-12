@@ -1,7 +1,6 @@
 .services .box-container {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
 }
 
 .services .box-container .box {
