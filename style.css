@@ -1,7 +1,6 @@
 .gallery .box-container .box .content {
   position: absolute;
   width: 100%;
-  text-align: center;
   background: rgba(0, 0, 0, .7);
   padding: 2rem;
   padding-top: 5rem;
