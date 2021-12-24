@@ -1,6 +1,5 @@
 .packages .box-container .box img {
   width: 100%;
-  object-fit: cover;
 }
 
 .packages .box-container .box .content {
