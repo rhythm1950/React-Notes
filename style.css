@@ -1,7 +1,3 @@
-.packages .box-container .box .content .stars i {
-  color: var(--orange);
-}
-
 .packages .box-container .box .content .price {
   font-size: 2rem;
   color: #333;
