@@ -1,6 +1,5 @@
 .home .video-container video {
   left: 0;
-  object-fit: cover;
 }
 
 .home .controls {
