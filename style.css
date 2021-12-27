@@ -1,7 +1,6 @@
 .home .video-container video {
   position: absolute;
   left: 0;
-  width: 100%;
   object-fit: cover;
 }
 
