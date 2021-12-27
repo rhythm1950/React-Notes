@@ -1,5 +1,4 @@
 .home .video-container video {
-  position: absolute;
   left: 0;
   object-fit: cover;
 }
