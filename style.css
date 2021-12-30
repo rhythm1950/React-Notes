@@ -1,6 +1,5 @@
 .book .row {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .book .row .image {
