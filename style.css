@@ -1,11 +1,6 @@
-.home .controls .vid-btn.active {
-  background: var(--orange);
-}
-
 .book .row {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem;
   align-items: center;
 }
 
