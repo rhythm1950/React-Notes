@@ -1,7 +1,3 @@
-.book .row {
-  display: flex;
-}
-
 .book .row .image {
   flex: 1 1 40rem;
 }
