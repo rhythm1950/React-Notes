@@ -1,6 +1,5 @@
 .packages .box-container {
   display: flex;
-  flex-wrap: wrap;
 }
 
 .packages .box-container .box {
