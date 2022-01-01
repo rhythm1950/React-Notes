@@ -1,7 +1,3 @@
-.login-form-container form .box {
-  text-transform: none;
-}
-
 .login-form-container form .box:focus {
   border-color: var(--orange);
   ;
