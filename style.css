@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.packages .box-container .box .content .price {
-  padding-top: 1rem;
-}
-
 .packages .box-container .box .content .price span {
   color: #666;
   font-size: 1.5rem;
