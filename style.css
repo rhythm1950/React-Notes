@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 .login-form-container form {
-  padding: 1.5rem 2rem;
   border-radius: .5rem;
   background: #fff;
   width: 50rem;
