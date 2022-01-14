@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 .book .row form .inputBox input {
-  padding: 1rem;
   border: .1rem solid rgba(0, 0, 0, .1);
   font-size: 1.7rem;
   color: #333;
