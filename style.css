@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.book .row form {
-  border-radius: .5rem;
-}
-
 .book .row form .inputBox {
   padding: .5rem 0;
 }
