@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.book .row form .inputBox input {
-  text-transform: none;
-}
-
 .book .row form .inputBox h3 {
   font-size: 2rem;
   padding: 1rem 0;
