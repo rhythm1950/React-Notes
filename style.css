@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 .services .box-container .box {
-  flex: 1 1 30rem;
   border-radius: .5rem;
   padding: 1rem;
   text-align: center;
