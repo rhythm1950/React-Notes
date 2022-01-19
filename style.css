@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.login-form-container form {
-  width: 50rem;
-}
-
 .login-form-container form h3 {
   font-size: 3rem;
   color: #444;
