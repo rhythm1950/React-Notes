@@ -2,7 +2,6 @@
 
 .gallery .box-container {
   display: flex;
-  gap: 1.5rem;
 }
 
 .gallery .box-container .box {
