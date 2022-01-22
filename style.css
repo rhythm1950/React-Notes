@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.services .box-container .box p {
-  padding: 1rem 0;
-}
-
 .services .box-container .box:hover {
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, .1);
 }
