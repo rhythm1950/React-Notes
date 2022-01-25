@@ -4,10 +4,6 @@
   flex: 1 1 50rem;
 }
 
-.contact .row form .inputBox {
-  justify-content: space-between;
-}
-
 .contact .row form .inputBox input,
 .contact .row form textarea {
   width: 49%;
