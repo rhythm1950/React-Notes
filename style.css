@@ -2,7 +2,6 @@
 
 .review .box img {
   width: 13rem;
-  border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
 }
