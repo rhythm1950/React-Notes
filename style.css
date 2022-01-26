@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.review .box {
-  border-radius: .5rem;
-}
-
 .review .box img {
   height: 13rem;
   width: 13rem;
