@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.contact .row form .inputBox input,
-.contact .row form textarea {
-  margin: 1rem 0;
-  background: #f7f7f7;
-}
-
 .contact .row form textarea {
   height: 15rem;
   resize: none;
