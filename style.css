@@ -1,26 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.footer .credit span {
-  color: var(--orange);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* media queries  */
-
 @media (max-width:1200px) {
 
   html {
