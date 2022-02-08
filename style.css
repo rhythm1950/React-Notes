@@ -3,7 +3,6 @@
 @media (max-width:768px) {
 
   header .navbar {
-    background: #333;
     border-top: .1rem solid rgba(255, 255, 255, .2);
     padding: 1rem 2rem;
     clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
