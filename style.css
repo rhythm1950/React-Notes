@@ -1,5 +1,4 @@
 .btn {
-  display: inline-block;
   margin-top: 1rem;
   border: .2rem solid var(--orange);
   cursor: pointer;
