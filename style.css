@@ -1,7 +1,3 @@
-.btn {
-  margin-top: 1rem;
-}
-
 .btn:hover {
   background: rgba(255, 165, 0, .2);
   color: var(--orange);
