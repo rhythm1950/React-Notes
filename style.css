@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
-.home .content p {
-  padding: .5rem 0;
-}
-
 .home .video-container video {
   position: absolute;
   top: 0;
