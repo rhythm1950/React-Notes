@@ -1,7 +1,3 @@
-header .logo span {
-  color: var(--orange);
-}
-
 header .navbar a {
   color: #fff;
   font-size: 2rem;
