@@ -1,7 +1,6 @@
 header .search-bar-container {
   position: absolute;
   top: 100%;
-  left: 0;
   right: 0;
   padding: 1.5rem 2rem;
   background: #333;
