@@ -1,7 +1,3 @@
-header .icons i {
-  margin-right: 2rem;
-}
-
 header .icons i:hover {
   color: var(--orange);
 }
