@@ -1,7 +1,6 @@
 header .search-bar-container {
   background: #333;
   align-items: center;
-  z-index: 1001;
 }
 
 header .search-bar-container.active {
