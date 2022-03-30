@@ -1,7 +1,3 @@
-header .search-bar-container #search-bar {
-  width: 100%;
-}
-
 header .search-bar-container label {
   color: #fff;
   cursor: pointer;
