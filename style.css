@@ -1,7 +1,6 @@
 header .search-bar-container label {
   color: #fff;
   cursor: pointer;
-  margin-left: 1.5rem;
 }
 
 header .search-bar-container label:hover {
