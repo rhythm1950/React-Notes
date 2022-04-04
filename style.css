@@ -1,5 +1,4 @@
 .login-form-container {
-  position: fixed;
   left: 0;
   z-index: 10000;
   min-height: 100vh;
