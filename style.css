@@ -1,7 +1,3 @@
-.login-form-container form p a:hover {
-  color: #333;
-}
-
 .login-form-container #form-close {
   position: absolute;
   top: 2rem;
