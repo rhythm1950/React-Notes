@@ -1,7 +1,6 @@
 .login-form-container #form-close {
   position: absolute;
   top: 2rem;
-  right: 3rem;
   font-size: 5rem;
   color: #fff;
   cursor: pointer;
