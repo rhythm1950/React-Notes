@@ -1,7 +1,3 @@
-.login-form-container form p {
-  padding: .5rem 0;
-}
-
 .login-form-container form p a {
   color: var(--orange);
 }
