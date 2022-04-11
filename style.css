@@ -1,7 +1,3 @@
-.login-form-container form p a {
-  color: var(--orange);
-}
-
 .login-form-container form p a:hover {
   color: #333;
   text-decoration: underline;
